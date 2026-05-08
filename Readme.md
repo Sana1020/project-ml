@@ -52,7 +52,7 @@ project ml/
 ├── Readme.md                      # Project documentation
 ├── Student_Performance.csv        # Dataset file
 ├── Student_Performance.ipynb      # Jupyter notebook with analysis
-└── [Additional files as needed]
+
 ```
 
 ## Features
