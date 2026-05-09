@@ -167,7 +167,7 @@ Contributions are welcome! Please feel free to:
 ## License
 
 This project is open source and available under the MIT License. Feel free to use it for educational and research purposes.
-
+Author /Sana Elbakry
 ---
 
 **Last Updated:** May 2026
